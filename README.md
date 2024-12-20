@@ -56,7 +56,7 @@ The project integrates various modules to streamline courtroom operations and pr
 ---
 
 ## Demo Images and Video
-Click on the links below to view images and demo videos of the project:
+Click on the links below to view images and demo videos of the project. Click **Courtup App Pic** for demo video of whole project along with explanation and click **Website Pic** for demo video of website
 
 ### **Android Application**
 - [![Courtup App Pic](https://github.com/bhuvanesh2235/Virtual-Online-Courtroom/blob/main/Images/Courtup%20App%20Pic.png)](https://youtu.be/1d-SEfJMSxs) 
